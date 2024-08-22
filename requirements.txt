@@ -1,0 +1,3 @@
+llmwhisperer-client
+openai
+python-dotenv
